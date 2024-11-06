@@ -1,2 +1,3 @@
 # Web-scrapping-101
-Every wondered how to pull data from web sites using python? Here is an easy walkthrough.
+Have you ever wondered how to pull data from websites using Python? Here is an easy walkthrough.
+Feel free to clone the notebook and replicate the steps on a different data source
